@@ -32,7 +32,7 @@ tools, maximally interoperable with others, as well as
 environment by monkey-patching.
 
 ## Blog Posts
-- [Cutting Corners or Why Rails May Kill Ruby](http://solnic.eu/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html) by @solnic
+- [Cutting Corners or Why Rails May Kill Ruby](http://solnic.codes/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html) by @solnic
 - [Do, or do not. There is no #try.](http://www.virtuouscode.com/2011/06/28/do-or-do-not-there-is-no-try/)
 
 ## TODO
